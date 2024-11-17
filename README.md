@@ -1,20 +1,48 @@
 # Snake Game
 
-A modern implementation of the classic Snake game built with Next.js. Features customizable settings, gamepad support, and background music.
+A modern take on the classic Snake game, built with Next.js. Enjoy customizable settings, gamepad support, and background music.
 
 ## Features
 
-- Multiple control schemes (Arrow keys, WASD, or Gamepad)
-- Customizable board size and game speed
-- Custom snake and food colors
-- Optional background music with volume control
-- Responsive design that works on all devices
-- Built with React and TypeScript for type safety
+- **Multiple control schemes**: Arrow keys, WASD, or Gamepad
+- **Customizable board size and game speed**
+- **Customizable snake and food colors**
+- **Optional background music with volume control**
+- **Responsive design for all devices**
+- **Built with React and TypeScript for type safety**
+
+## Screenshots
+
+### Gameplay
+
+![Snake Game Gameplay](/public/screenshots/gameplay.png)
+*Experience classic snake gameplay with modern visuals and customizable colors.*
+
+### Settings
+
+![Game Settings](/public/screenshots/settings.png)
+*Adjust game settings including speed, board size, and audio options.*
 
 ## Getting Started
 
-1. Clone the repository
-2. Install dependencies:
+1. **Clone the repository**:
+
+    ```bash
+    git clone https://github.com/yourusername/snake-game.git
+    ```
+
+2. **Install dependencies**:
+
+    ```bash
+    cd snake-game
+    npm install
+    ```
+
+3. **Run the development server**:
+
+    ```bash
+    npm run dev
+    ```
 
 ## Audio Attribution
 
@@ -22,4 +50,4 @@ The background music used in this game is from ["Sketches for a Realms of Arkani
 
 ## License
 
-Game code is MIT Licensed. Audio assets are licensed under CC BY 4.0.
+The game code is licensed under the MIT License. Audio assets are licensed under CC BY 4.0.
