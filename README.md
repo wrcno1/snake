@@ -2,6 +2,8 @@
 
 A modern take on the classic Snake game, built with Next.js. Enjoy customizable settings, gamepad support, and background music.
 
+🎮 **[Play the game here](https://snake-eta-swart.vercel.app/)**
+
 ## Features
 
 - **Multiple control schemes**: Arrow keys, WASD, or Gamepad
