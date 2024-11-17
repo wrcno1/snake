@@ -28,7 +28,7 @@ A modern take on the classic Snake game, built with Next.js. Enjoy customizable 
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/snake-game.git
+    git clone https://github.com/wrcno1/snake.git
     ```
 
 2. **Install dependencies**:
