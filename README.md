@@ -34,7 +34,7 @@ A modern take on the classic Snake game, built with Next.js. Enjoy customizable 
 2. **Install dependencies**:
 
     ```bash
-    cd snake-game
+    cd snake
     npm install
     ```
 
